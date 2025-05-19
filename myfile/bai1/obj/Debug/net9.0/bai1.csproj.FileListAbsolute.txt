@@ -1,0 +1,14 @@
+C:\Sum25\prn212\code C#\bai1\bin\Debug\net9.0\bai1.exe
+C:\Sum25\prn212\code C#\bai1\bin\Debug\net9.0\bai1.deps.json
+C:\Sum25\prn212\code C#\bai1\bin\Debug\net9.0\bai1.runtimeconfig.json
+C:\Sum25\prn212\code C#\bai1\bin\Debug\net9.0\bai1.dll
+C:\Sum25\prn212\code C#\bai1\bin\Debug\net9.0\bai1.pdb
+C:\Sum25\prn212\code C#\bai1\obj\Debug\net9.0\bai1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sum25\prn212\code C#\bai1\obj\Debug\net9.0\bai1.AssemblyInfoInputs.cache
+C:\Sum25\prn212\code C#\bai1\obj\Debug\net9.0\bai1.AssemblyInfo.cs
+C:\Sum25\prn212\code C#\bai1\obj\Debug\net9.0\bai1.csproj.CoreCompileInputs.cache
+C:\Sum25\prn212\code C#\bai1\obj\Debug\net9.0\bai1.dll
+C:\Sum25\prn212\code C#\bai1\obj\Debug\net9.0\refint\bai1.dll
+C:\Sum25\prn212\code C#\bai1\obj\Debug\net9.0\bai1.pdb
+C:\Sum25\prn212\code C#\bai1\obj\Debug\net9.0\bai1.genruntimeconfig.cache
+C:\Sum25\prn212\code C#\bai1\obj\Debug\net9.0\ref\bai1.dll
